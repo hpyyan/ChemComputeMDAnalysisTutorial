@@ -1,4 +1,4 @@
 # ChemComputeMDAnalysisTutorial
 This tutorial shows you how to use MDAnalysis to analyze MD simulation data from a NAMD simulation run through the ChemCompute website. The tutorial should be paired with this video:
 
-https://youtu.be/jrv_cAG514k?si=CtjQsdDb6-sq1uGM
+https://youtu.be/jrv_cAG514k
